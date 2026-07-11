@@ -18,4 +18,8 @@ I am a Ph.D. student in the [Department of East Asian Languages and Cultures at 
 
 My primary research interests lie in **syntax-semantics**, **cognitive linguistics**, and **corpus linguistics**. I am currently focusing extensively on relative clauses and using corpus linguistics software and tools for efficient data analysis.
 
----
+## News
+
+* **[May 2026]** Delivering an oral presentation at the 38th North American Conference on Chinese Linguistics (NACCL-38) in Washington, D.C.
+* **[April 2026]** Upcoming academic presentation scheduled for April 6.
+* **[Spring 2026]** Received the Indiana University EASC Conference Travel Award.
