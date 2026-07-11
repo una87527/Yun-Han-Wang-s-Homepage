@@ -1,5 +1,5 @@
 # Yun-Han-Wang-s-Homepage
-**[Home](./)** | **[Education](education.md)** | **[Publications](publications.md)** | **[Experience](experience.md)** | **[Awards & Skills](awards_and_skills.md)**
+**[Home](./)** | **[Education](education.html)** | **[Publications](publications.html)** | **[Experience](experience.html)** | **[Awards & Skills](awards_and_skills.html)**
 ***
 
 <!-- 請將 profile_photo.jpg 替換為您的照片檔名，並上傳至同一個 GitHub 資料夾 -->
