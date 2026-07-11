@@ -7,22 +7,16 @@
 
 # YUN-HAN WANG[cite: 1]
 
-Ph.D. Student, Chinese Linguistics track[cite: 1]  
-Department of East Asian Languages and Cultures[cite: 1]  
-Indiana University Bloomington[cite: 1]
+Ph.D. Student, Chinese Linguistics track
+Department of East Asian Languages and Cultures  
+Indiana University Bloomington
 
-[Email](mailto:yw202@iu.edu)[cite: 1] / [CV](./260205_cv_韻涵.pdf) / [Google Scholar](#) / [GitHub](#)
+[Email](mailto:yw202@iu.edu) / [CV](./260205_cv_韻涵.pdf) / [Google Scholar](https://scholar.google.com/citations?user=R6qD2HcAAAAJ&hl=zh-TW&oi=sra) / [Orcid](https://orcid.org/0009-0003-8069-0864)
 
 ## Biography & Research Interests
 
-I am a Ph.D. student in the Department of East Asian Languages and Cultures (Chinese Linguistics track) at Indiana University Bloomington[cite: 1]. 
+I am a Ph.D. student in the Department of East Asian Languages and Cultures (Chinese Linguistics track) at Indiana University Bloomington. 
 
-My primary research interests lie in **syntax-semantics**, **cognitive-linguistics**, and **corpus linguistics**[cite: 1]. I focus extensively on formal semantics and utilize corpus linguistics software and tools, such as AntConc and customized VBA macros in Microsoft Word, for efficient data analysis.
+My primary research interests lie in **syntax-semantics**, **cognitive-linguistics**, and **corpus linguistics**. I focus extensively on formal semantics and utilize corpus linguistics software and tools for efficient data analysis.
 
 ---
-
-## News
-
-* **[May 2026]** Delivering an oral presentation at the 38th North American Conference on Chinese Linguistics (NACCL-38) in Washington, D.C[cite: 1].
-* **[April 2026]** Upcoming academic presentation scheduled for April 6.
-* **[Spring 2026]** Received the Indiana University EASC Conference Travel Award[cite: 1].
