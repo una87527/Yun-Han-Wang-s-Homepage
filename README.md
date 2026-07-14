@@ -1,10 +1,3 @@
-<style>
-  h1:first-of-type a {
-    pointer-events: none;         /* 取消點擊功能 */
-    text-decoration: none;        /* 移除底線 */
-    color: #333333 !important;    /* 把字體改成深灰色或黑色 */
-  }
-</style>
 **[Home](./)** | **[Education](education.md)** | **[Publications](publications.md)** | **[Experience](experience.md)** | **[Awards & Skills](awards_and_skills.md)**
 
 <img src="profile_photo.jpg" alt="profile photo" width="220" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;">
